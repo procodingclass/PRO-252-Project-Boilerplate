@@ -12,7 +12,7 @@ const char ssid[] = "your ssid";
 const char password[] = "your password";
 
 //  API url
-String api = "write your API";
+String api = "write your API URL for POST request";
 
 //  creating http client
 HTTPClient http;
